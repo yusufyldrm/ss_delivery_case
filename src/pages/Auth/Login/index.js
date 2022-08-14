@@ -17,8 +17,8 @@ import {
 } from 'helpers/validation';
 
 const USER_STATE = {
-  email: { value: 'oliverjones@gmail.com', error: '' },
-  password: { value: '123456', error: '' },
+  email: { value: '', error: '' },
+  password: { value: '', error: '' },
   error: ''
 };
 
